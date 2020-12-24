@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/innoscripta.iml" filepath="$PROJECT_DIR$/.idea/innoscripta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../spaprofilancegroup/.idea/spaprofilancegroup.iml" filepath="$PROJECT_DIR$/../spaprofilancegroup/.idea/spaprofilancegroup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../JavaScript(6) React Pro/todoapp/.idea/todoapp.iml" filepath="$PROJECT_DIR$/../../JavaScript(6) React Pro/todoapp/.idea/todoapp.iml" />
+    </modules>
+  </component>
+</project>
