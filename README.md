@@ -1,13 +1,13 @@
   
-[Демо](https://innoscripta-lors.herokuapp.com/)   
-## Данные для входа
-* **admin:** Логин: admin , Пароль: admin  
+[Демо](https://agile-caverns-76381.herokuapp.com/)   
+## Login and Password
+* **admin:** Login: admin , Password: admin  
 
-## При разработке использовал:
-* redux / redux-thunk для организации стейта
+## I used next technologies:
+* redux / redux-thunk for State Managment
 * MaterialUi
-* react-router-dom для роутинга
-* REST API, асинхронные запросы, json-server (специально для приложения был написан небольшой backend)
+* react-router-dom for routing
+* REST API, ASYNC requests, json-server (for this app was cteated a small backend)
 * Material Icons / normalize.css / react-loading-skeleton / classnames
-* а также хуки, concurrently, prop-types, react-hotkeys-hook, moment, redux-logger, функциональные компоненты
+* also hooks, concurrently, prop-types, react-hotkeys-hook, moment, redux-logger, function components
 # innoscripta-hh
